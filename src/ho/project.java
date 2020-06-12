@@ -3,7 +3,7 @@ package ho;
 public class project {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO write main function 
 
 	}
 
